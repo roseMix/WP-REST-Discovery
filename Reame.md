@@ -1,4 +1,4 @@
-# Wordpress api discovery
+# Wordpress REST API discovery with JavaScript ES6
 
 The wordpress REST api has an inbuilt" method that allow clients to find the REST API's entry point.
 The way it works is by adding `<link>` tags with the attribute `rel = "https://api.w.org/"` to the document source code.
